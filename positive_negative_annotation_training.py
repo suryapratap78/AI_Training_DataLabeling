@@ -1,3 +1,6 @@
+# example of data annotation and training an AI using a text classification use case — like training a model 
+# to detect whether a movie review is positive or negative.
+
 # Labeled (annotated) data
 data = [
     ("This movie was fantastic!", "positive"),
